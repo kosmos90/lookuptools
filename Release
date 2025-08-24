@@ -1,0 +1,15 @@
+Origin: LookupTools
+Label: Lookup
+Suite: stable
+Version: 1.0
+Codename: tangelo
+Architectures: iphoneos-arm64
+Components: main
+Description: Mini collection of tweaks
+md5:  963fe3f407681e76e5367d4c52b493f6 5287 Packages
+ 6d0862b4e616176ccfdacad5d9d0ace7 1868 Packages.gz
+sha1:  ce5bc67d11888d2095cdbcad8ecc81db82bb33a5 5287 Packages
+ 38a42b1b893978c14fadae388db4a487e8e49d1b 1868 Packages.gz
+sha256:  2cdca735647507802e98fddffcb96a71f9ae0808b3e2ac99f857d3b837e1742b 5287 Packages
+ e9a84ddb05af58cb85c6297c694c7fa3b0b59ec935f2a8dacc76def595d6ca83 1868 Packages.gz
+

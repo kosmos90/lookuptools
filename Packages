@@ -1,0 +1,115 @@
+Package: com.amywhile.aemulo
+Name: Aemulo
+Description: NFC Frickery
+Maintainer: Amy While <support@anamy.gay>
+Author: Amy While <support@anamy.gay>
+Section: Tweaks
+Depends: firmware (>= 14.0)
+Icon: https://elihwyma.github.io/Aemulo/assets/Icon.png
+Header: https://elihwyma.github.io/Aemulo/assets/Depiction-Header.png
+Native-Depiction: https://elihwyma.github.io/Aemulo/NativeDepiction.json
+Architecture: iphoneos-arm64
+Version: 2.0-dd2a2db
+Installed-Size: 1968
+Filename: debians\com.amywhile.aemulo_2.0-dd2a2db_iphoneos-arm64.deb
+Size: 538088
+md5: 4590fc7d02e36dc256d926ad05f67896
+sha1: 124ad8ffd0ed399856fe6375ea3bb3718e80cc6f
+sha256: 38d5b32cee94725b3e1ec6889ee8c2b4a95b049e31694c99f2aa9080737fce88
+Depiction: kosmos90.github.io/lookuptools/depictions/web/?p=com.amywhile.aemulo
+SileoDepiction: kosmos90.github.io/lookuptools/depictions/native/com.amywhile.aemulo/depiction.json
+
+Package: com.cokepokes.appstoreplusplus
+Name: AppStore++
+Version: 0.10.1-5
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-15.whatever
+Section: Tweaks
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: CokePokes
+dev: 
+Homepage: 
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Maintainer: CokePokes
+Icon: https://cokepokes.github.io/depiction/appstoreplus/icon.png
+Filename: debians\com.cokepokes.appstoreplusplus_0.10.1-5_iphoneos-arm.deb
+Size: 4636364
+md5: 1439e142bcdec4582b9ac8bccc112e4a
+sha1: c252051616bade4de9d2ccc3a1ea7e29882488c8
+sha256: 23bb2021da9b3fdaf5d947490f8ebff5c947d71a6966bf70e43c025c4916c8c7
+Depiction: kosmos90.github.io/lookuptools/depictions/web/?p=com.cokepokes.appstoreplusplus
+SileoDepiction: kosmos90.github.io/lookuptools/depictions/native/com.cokepokes.appstoreplusplus/depiction.json
+
+Package: com.exile90.icleanerpro
+Name: iCleaner Pro
+Description: The first real iOS system cleanup and management utility
+Author: Ivano Bilenchi <support@ib-soft.net>
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Version: 7.10.0
+Architecture: iphoneos-arm64
+Homepage: http://ib-soft.net/icleaner
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Section: Utilities
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Icon: https://raw.githubusercontent.com/ichitaso/file/refs/heads/main/images/Icons/iCleaner.png
+Filename: debians\com.exile90.icleanerpro_7.10.0_iphoneos-arm64.deb
+Size: 1259402
+md5: 6bf10790aabb8bf265fd84726c967a9b
+sha1: d0c239d59f2a9d4aa291e9048fc4614c7db59dce
+sha256: a1e8934fc9cb6eed5a1d39ba4c62fcf4e0125cbb1c085339fa4aa93d645e70fe
+Depiction: kosmos90.github.io/lookuptools/depictions/web/?p=com.exile90.icleanerpro
+SileoDepiction: kosmos90.github.io/lookuptools/depictions/native/com.exile90.icleanerpro/depiction.json
+
+Author: ichitaso <willfeeltips+ps11@gmail.com>
+Maintainer: ichitaso <willfeeltips+ps11@gmail.com>
+Name: PowerSelector
+Package: com.ichitaso.powerselector11
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Replaces: com.ichitaso.powerselector11
+Section: Utilities
+Description: The power supply relation of a device is operated.
+Depiction: https://cydia.ichitaso.com/depiction/powerselector11.html
+Homepage: https://cydia.ichitaso.com/depiction/powerselector11.html
+dev: ichitaso
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios17.1.2
+Icon: https://cydia.ichitaso.com/icons/PowerSelector.png
+SileoDepiction: https://cydia.ichitaso.com/depiction/powerselector11.json
+Architecture: iphoneos-arm64
+Version: 1.4.0
+Installed-Size: 2212
+Filename: debians\com.ichitaso.powerselector11_1.4.0_iphoneos-arm64.deb
+Size: 201760
+md5: 8239543ce656dcdfc767153ca91bf4e6
+sha1: a903b8356ebf69ceb1df8c0b70629c27fba7c1b8
+sha256: fc84a4e3f985998449beb6bfc84b79b13356efb94a3482aa1cbd50ff5e8b928a
+Depiction: kosmos90.github.io/lookuptools/depictions/web/?p=com.ichitaso.powerselector11
+SileoDepiction: kosmos90.github.io/lookuptools/depictions/native/com.ichitaso.powerselector11/depiction.json
+
+Package: com.spark.snowboard
+Name: SnowBoard
+Depends: mobilesubstrate, preferenceloader
+Description: Snowboard theming engine
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Maintainer: Spark
+Author: Spark & Dennis D. Bednarz
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.5.26-Beta4-rootless
+Installed-Size: 3236
+Filename: debians\snowboard-1.5.26-Beta4-rootless.deb
+Size: 1120268
+md5: 9109ec3d0b2bca55154f15610c8b61ba
+sha1: 1548df152c15da2d898f19e618fb6af4bdee5d85
+sha256: 2857efc003bf3c2def3119ea1b45f25b86eb57c8bf6f3b8d12c822e976608a51
+Depiction: kosmos90.github.io/lookuptools/depictions/web/?p=com.spark.snowboard
+SileoDepiction: kosmos90.github.io/lookuptools/depictions/native/com.spark.snowboard/depiction.json
+
