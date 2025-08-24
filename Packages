@@ -11,7 +11,7 @@ Native-Depiction: https://elihwyma.github.io/Aemulo/NativeDepiction.json
 Architecture: iphoneos-arm64
 Version: 2.0-dd2a2db
 Installed-Size: 1968
-Filename: debians\com.amywhile.aemulo_2.0-dd2a2db_iphoneos-arm64.deb
+Filename: debians/com.amywhile.aemulo_2.0-dd2a2db_iphoneos-arm64.deb
 Size: 538088
 md5: 4590fc7d02e36dc256d926ad05f67896
 sha1: 124ad8ffd0ed399856fe6375ea3bb3718e80cc6f
@@ -35,7 +35,7 @@ Homepage:
 Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
 Maintainer: CokePokes
 Icon: https://cokepokes.github.io/depiction/appstoreplus/icon.png
-Filename: debians\com.cokepokes.appstoreplusplus_0.10.1-5_iphoneos-arm.deb
+Filename: debians/com.cokepokes.appstoreplusplus_0.10.1-5_iphoneos-arm.deb
 Size: 4636364
 md5: 1439e142bcdec4582b9ac8bccc112e4a
 sha1: c252051616bade4de9d2ccc3a1ea7e29882488c8
@@ -57,7 +57,7 @@ Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner
 Replaces: org.altervista.exilecom.icleaner
 Icon: https://raw.githubusercontent.com/ichitaso/file/refs/heads/main/images/Icons/iCleaner.png
-Filename: debians\com.exile90.icleanerpro_7.10.0_iphoneos-arm64.deb
+Filename: debians/com.exile90.icleanerpro_7.10.0_iphoneos-arm64.deb
 Size: 1259402
 md5: 6bf10790aabb8bf265fd84726c967a9b
 sha1: d0c239d59f2a9d4aa291e9048fc4614c7db59dce
@@ -84,7 +84,7 @@ SileoDepiction: https://cydia.ichitaso.com/depiction/powerselector11.json
 Architecture: iphoneos-arm64
 Version: 1.4.0
 Installed-Size: 2212
-Filename: debians\com.ichitaso.powerselector11_1.4.0_iphoneos-arm64.deb
+Filename: debians/com.ichitaso.powerselector11_1.4.0_iphoneos-arm64.deb
 Size: 201760
 md5: 8239543ce656dcdfc767153ca91bf4e6
 sha1: a903b8356ebf69ceb1df8c0b70629c27fba7c1b8
@@ -105,7 +105,7 @@ Section: Tweaks
 Architecture: iphoneos-arm64
 Version: 1.5.26-Beta4-rootless
 Installed-Size: 3236
-Filename: debians\snowboard-1.5.26-Beta4-rootless.deb
+Filename: debians/snowboard-1.5.26-Beta4-rootless.deb
 Size: 1120268
 md5: 9109ec3d0b2bca55154f15610c8b61ba
 sha1: 1548df152c15da2d898f19e618fb6af4bdee5d85
